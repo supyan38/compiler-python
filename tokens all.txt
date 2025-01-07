@@ -1,0 +1,14 @@
+a = 10
+b = 3.14
+c = 0
+d = "saya"
+
+def main () :
+    
+    if a > b :
+        a = a + 1
+    else :
+        c = b - 1
+    
+    return 0  
+
