@@ -17,7 +17,7 @@ Python Compiler adalah sebuah proyek yang memungkinkan pengguna untuk mengompila
 2. Install dependencies (jika ada).  
 3. Jalankan program:  
    ```sh
-   python main.py
+   python Compiler v4.0.py
    ```
 ### 💡 Kontribusi:
 Kami terbuka untuk kontribusi! Silakan buat pull request atau buka issue untuk diskusi lebih lanjut.
